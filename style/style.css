@@ -12,7 +12,7 @@ h1
 {
  font-size:40px;
 }
-#subhead 
+h2 > span
 {
-    font-size:28px;
+    font-size: 35px;
 }
