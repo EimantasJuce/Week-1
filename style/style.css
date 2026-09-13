@@ -1,17 +1,16 @@
-*
-{
+*{
     font-family: arial, sans-serif;
-    color:  rgb(0, 0, 255);
+    color:  #02ddfa;
 }
-body
-{
+body{
     background: linear-gradient(#fd2ff9,#02ddfa)
 }
-h1
-{
+h1{
  font-size:40px;
 }
-h2 > span
-{
-    font-size: 31px;
+h2 span{
+    font-size: 30px;
+}
+.music {
+    color:#fd2ff9;
 }
