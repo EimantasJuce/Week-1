@@ -1,10 +1,9 @@
 *{
-    font-family: arial, sans-serif;
-    
+    font-family: arial, sans-serif;   
 }
 body{
     color:  #02ddfa;
-    background: linear-gradient(#fd2ff9,#02ddfa)
+    background: linear-gradient(#fd2ff9,#02ddfa)      
 }
 h1{
  font-size:40px;
